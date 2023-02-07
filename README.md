@@ -1,2 +1,2 @@
 # React-lab
-React portfolio
+React Portfolio
